@@ -1,0 +1,1179 @@
+[
+  {
+    "bootstrap": "glyphicon-80-percent",
+    "fontawesome": [],
+    "note": "Not an icon, this is a custom CSS class used for sizing"
+  },
+  {
+    "bootstrap": "glyphicon-alert",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-exclamation-triangle"
+      },
+      {
+        "type": "fas",
+        "name": "fa-exclamation-circle"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-align-left",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-align-left"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-arrow-down",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-arrow-down"
+      },
+      {
+        "type": "fas",
+        "name": "fa-long-arrow-alt-down"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-arrow-up",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-arrow-up"
+      },
+      {
+        "type": "fas",
+        "name": "fa-long-arrow-alt-up"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-asterisk",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-asterisk"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-backward",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-backward"
+      },
+      {
+        "type": "fas",
+        "name": "fa-angle-double-left"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-ban-circle",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-ban"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-calendar",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-calendar-alt"
+      },
+      {
+        "type": "far",
+        "name": "fa-calendar-alt"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-check",
+    "fontawesome": [
+      {
+        "type": "far",
+        "name": "fa-check-square"
+      },
+      {
+        "type": "fas",
+        "name": "fa-check-square"
+      },
+      {
+        "type": "fas",
+        "name": "fa-check"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-chevron-down",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-chevron-down"
+      },
+      {
+        "type": "fas",
+        "name": "fa-chevron-circle-down"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-chevron-left",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-chevron-left"
+      },
+      {
+        "type": "fas",
+        "name": "fa-chevron-circle-left"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-chevron-right",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-chevron-right"
+      },
+      {
+        "type": "fas",
+        "name": "fa-chevron-circle-right"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-chevron-up",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-chevron-up"
+      },
+      {
+        "type": "fas",
+        "name": "fa-chevron-circle-up"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-circle-arrow-left",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-arrow-circle-left"
+      },
+      {
+        "type": "far",
+        "name": "fa-arrow-alt-circle-left"
+      },
+      {
+        "type": "fas",
+        "name": "fa-arrow-alt-circle-left"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-cog",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-cog"
+      },
+      {
+        "type": "fas",
+        "name": "fa-cogs"
+      },
+      {
+        "type": "fas",
+        "name": "fa-user-cog"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-copy",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-copy"
+      },
+      {
+        "type": "far",
+        "name": "fa-copy"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-credit-card",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-credit-card"
+      },
+      {
+        "type": "far",
+        "name": "fa-credit-card"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-dashboard",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-tachometer-alt"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-download-alt",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-download"
+      },
+      {
+        "type": "fas",
+        "name": "fa-file-download"
+      },
+      {
+        "type": "fas",
+        "name": "fa-cloud-download-alt"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-duplicate",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-clone"
+      },
+      {
+        "type": "far",
+        "name": "fa-clone"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-earphone",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-phone"
+      },
+      {
+        "type": "fas",
+        "name": "fa-phone-square"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-edit",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-edit"
+      },
+      {
+        "type": "far",
+        "name": "fa-edit"
+      },
+      {
+        "type": "fa",
+        "name": "fa-user-edit"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-envelope",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-envelope"
+      },
+      {
+        "type": "far",
+        "name": "fa-envelope"
+      },
+      {
+        "type": "fas",
+        "name": "fa-envelope-open"
+      },
+      {
+        "type": "fas",
+        "name": "fa-envelope-square"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-erase",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-eraser"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-eraser",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-"
+      }
+    ],
+    "note": "Likely a typo in the code. eraser is not an icon, likely meant erase"
+  },
+  {
+    "bootstrap": "glyphicon-exclamation-sign",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-exclamation-circle"
+      },
+      {
+        "type": "fas",
+        "name": "fa-exclamation"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-export",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-upload"
+      },
+      {
+        "type": "fas",
+        "name": "fa-file-export"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-eye-open",
+    "fontawesome": [
+      {
+        "type": "far",
+        "name": "fa-eye"
+      },
+      {
+        "type": "fas",
+        "name": "fa-eye"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-filter",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-filter"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-flash",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-bolt"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-folder-close",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-folder"
+      },
+      {
+        "type": "far",
+        "name": "fa-folder"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-folder-open",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-folder-open"
+      },
+      {
+        "type": "far",
+        "name": "fa-folder-open"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-forward",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-forward"
+      },
+      {
+        "type": "fas",
+        "name": "fa-angle-double-right"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-fullscreen",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-expand-arrows-alt"
+      },
+      {
+        "type": "fas",
+        "name": "fa-expand"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-globe",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-globe"
+      },
+      {
+        "type": "fas",
+        "name": "fa-globe-americas"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-hand-up",
+    "fontawesome": [
+      {
+        "type": "far",
+        "name": "fa-hand-point-up"
+      },
+      {
+        "type": "fas",
+        "name": "fa-hand-point-up"
+      },
+      {
+        "type": "far",
+        "name": "fa-hand-pointer"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-home",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-home"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-import",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-file-import"
+      },
+      {
+        "type": "fas",
+        "name": "fa-download"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-info-sign",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-info-circle"
+      },
+      {
+        "type": "fas",
+        "name": "fa-info"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-list",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-list"
+      },
+      {
+        "type": "fas",
+        "name": "fa-list-ul"
+      },
+      {
+        "type": "far",
+        "name": "fa-list-alt"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-lock",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-lock"
+      },
+      {
+        "type": "fas",
+        "name": "fa-unlock"
+      },
+      {
+        "type": "fas",
+        "name": "fa-lock-open"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-map-marker",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-map-marker-alt"
+      },
+      {
+        "type": "fas",
+        "name": "fa-map-pin"
+      },
+      {
+        "type": "fas",
+        "name": "fa-location-arrow"
+      },
+      {
+        "type": "fas",
+        "name": "fa-map-marker"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-menu-down",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-caret-down"
+      },
+      {
+        "type": "far",
+        "name": "fa-caret-square-down"
+      },
+      {
+        "type": "fas",
+        "name": "fa-caret-square-down"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-menu-right",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-caret-right"
+      },
+      {
+        "type": "far",
+        "name": "fa-caret-square-right"
+      },
+      {
+        "type": "fas",
+        "name": "fa-caret-square-right"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-menu-toggleable",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-"
+      }
+    ],
+    "note": "Custom CSS class. Can be added to main css file"
+  },
+  {
+    "bootstrap": "glyphicon-minus-sign",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-minus-circle"
+      },
+      {
+        "type": "fas",
+        "name": "fa-minus-square"
+      },
+      {
+        "type": "far",
+        "name": "fa-minus-square"
+      },
+      {
+        "type": "fas",
+        "name": "fa-minus"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-none",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-"
+      }
+    ],
+    "note": "This is useless"
+  },
+  {
+    "bootstrap": "glyphicon-ok",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-check"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-ok-circle",
+    "fontawesome": [
+      {
+        "type": "far",
+        "name": "fa-check-circle"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-ok-sign",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-check-circle"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-option-horizontal",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-ellipsis-h"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-paperclip",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-paperclip"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-pencil",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-pencil-alt"
+      },
+      {
+        "type": "fas",
+        "name": "fa-pen-square"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-phone",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-mobile"
+      },
+      {
+        "type": "fas",
+        "name": "fa-mobile-alt"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-picture",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-image"
+      },
+      {
+        "type": "far",
+        "name": "fa-image"
+      },
+      {
+        "type": "fas",
+        "name": "fa-images"
+      },
+      {
+        "type": "far",
+        "name": "fa-images"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-play",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-play"
+      },
+      {
+        "type": "fas",
+        "name": "fa-play-circle"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-plus",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-plus"
+      },
+      {
+        "type": "far",
+        "name": "fa-plus-square"
+      },
+      {
+        "type": "fas",
+        "name": "fa-plus-square"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-plus-sign",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-plus-circle"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-question-sign",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-question-circle"
+      },
+      {
+        "type": "far",
+        "name": "fa-question-circle"
+      },
+      {
+        "type": "fas",
+        "name": "fa-question"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-random",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-random"
+      },
+      {
+        "type": "fas",
+        "name": "fa-dice"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-refresh",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-sync"
+      },
+      {
+        "type": "fas",
+        "name": "fa-stnc-alt"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-refresh-animate",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-"
+      }
+    ],
+    "note": "Custom CSS Class. Can use the fontawesome animation class instead"
+  },
+  {
+    "bootstrap": "glyphicon-remove",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-times"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-remove-circle",
+    "fontawesome": [
+      {
+        "type": "far",
+        "name": "fa-times-circle"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-remove-sign",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-times-circle"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-repeat",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-redo"
+      },
+      {
+        "type": "fas",
+        "name": "fa-redo-alt"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-retweet",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-retweet"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-save-file",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-file-download"
+      },
+      {
+        "type": "fas",
+        "name": "fa-save"
+      },
+      {
+        "type": "far",
+        "name": "fa-save"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-search",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-search"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-share",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-share-square"
+      },
+      {
+        "type": "far",
+        "name": "fa-share-square"
+      },
+      {
+        "type": "fas",
+        "name": "fa-share"
+      },
+      {
+        "type": "fas",
+        "name": "fa-share-alt"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-star",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-star"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-star-empty",
+    "fontawesome": [
+      {
+        "type": "far",
+        "name": "fa-star"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-stats",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-chart-line"
+      },
+      {
+        "type": "fas",
+        "name": "fa-chart-bar"
+      },
+      {
+        "type": "fas",
+        "name": "fa-chart-pie"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-step-backward",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-step-backward"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-step-forward",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-step-forward"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-stop",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-stop"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-th",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-th"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-th-list",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-th-list"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-time",
+    "fontawesome": [
+      {
+        "type": "far",
+        "name": "fa-clock"
+      },
+      {
+        "type": "fas",
+        "name": "fa-clock"
+      },
+      {
+        "type": "fas",
+        "name": "fa-stopwatch"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-trash",
+    "fontawesome": [
+      {
+        "type": "far",
+        "name": "fa-trash-alt"
+      },
+      {
+        "type": "fas",
+        "name": "fa-trash-alt"
+      },
+      {
+        "type": "fas",
+        "name": "fa-trash"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-unchecked",
+    "fontawesome": [
+      {
+        "type": "far",
+        "name": "fa-square"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-usd",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-dollar-sign"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-user",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-user"
+      },
+      {
+        "type": "far",
+        "name": "fa-user"
+      },
+      {
+        "type": "fas",
+        "name": "fa-user-circle"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-warning-sign",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-exclamation-triangle"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-wrench",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-wrench"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "bootstrap": "glyphicon-zoom-in",
+    "fontawesome": [
+      {
+        "type": "fas",
+        "name": "fa-search-plus"
+      }
+    ],
+    "note": ""
+  }
+]

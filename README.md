@@ -1,5 +1,7 @@
 # icon-showdown
 
+## A visual aid to help with the migration from bootstrap to font awesome within a project. 
+
 ## Project setup
 ```
 npm install
