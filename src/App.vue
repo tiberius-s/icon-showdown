@@ -32,6 +32,7 @@ body {
   color: #2c3e50;
   margin: 0 auto;
   width: 85%;
-  margin-top: 60px;
+  margin-top: 4rem;
+  margin-bottom: 3rem;
 }
 </style>

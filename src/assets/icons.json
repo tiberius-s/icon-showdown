@@ -219,11 +219,7 @@
     "fontawesome": [
       {
         "type": "fas",
-        "name": "fa-copy"
-      },
-      {
-        "type": "far",
-        "name": "fa-copy"
+        "name": "fa-clipboard"
       }
     ],
     "note": ""
@@ -275,11 +271,7 @@
     "fontawesome": [
       {
         "type": "fas",
-        "name": "fa-clone"
-      },
-      {
-        "type": "far",
-        "name": "fa-clone"
+        "name": "fa-copy"
       }
     ],
     "note": ""
@@ -375,10 +367,6 @@
   {
     "bootstrap": "glyphicon-export",
     "fontawesome": [
-      {
-        "type": "fas",
-        "name": "fa-upload"
-      },
       {
         "type": "fas",
         "name": "fa-file-export"
@@ -609,7 +597,7 @@
     "fontawesome": [
       {
         "type": "fas",
-        "name": "fa-caret-down"
+        "name": "fa-chevron-down"
       },
       {
         "type": "far",
@@ -627,7 +615,7 @@
     "fontawesome": [
       {
         "type": "fas",
-        "name": "fa-caret-right"
+        "name": "fa-chevron-right"
       },
       {
         "type": "far",
@@ -751,10 +739,6 @@
     "fontawesome": [
       {
         "type": "fas",
-        "name": "fa-mobile"
-      },
-      {
-        "type": "fas",
         "name": "fa-mobile-alt"
       }
     ],
@@ -764,11 +748,11 @@
     "bootstrap": "glyphicon-picture",
     "fontawesome": [
       {
-        "type": "fas",
+        "type": "far",
         "name": "fa-image"
       },
       {
-        "type": "far",
+        "type": "fas",
         "name": "fa-image"
       },
       {
