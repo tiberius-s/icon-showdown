@@ -1,7 +1,7 @@
 <template>
   <div class="main">
-      <Header />
-      <IconRow v-for="(icon, index) in icons" :key='index' :icon='icon'/>
+    <Header />
+    <IconRow v-for="(icon, index) in icons" :key="index" :icon="icon" />
   </div>
 </template>
 

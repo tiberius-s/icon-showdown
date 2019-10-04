@@ -1,6 +1,10 @@
 <template>
   <div class="icon-container" :class="{'glyphicon-cell' : isBS()}">
-    <span><span v-if="isFA()">{{iconType}} </span>{{name}} </span><i :class='[iconType, name]'></i>
+    <span>
+      <span v-if="isFA()">{{iconType}}</span>
+      {{name}}
+    </span>
+    <i :class="[iconType, name]"></i>
   </div>
 </template>
 

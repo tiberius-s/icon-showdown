@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Container :icons=icons />
+    <Container :icons="icons" />
   </div>
 </template>
 
